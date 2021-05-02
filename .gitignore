@@ -1,0 +1,15 @@
+/doc
+/target
+/results
+/src/test/matlab/results/
+.idea
+.settings
+.classpath
+.project
+*.iml
+*.releaseBackup
+release.properties
+out.txt
+*.dat
+*.mat
+*.csv
