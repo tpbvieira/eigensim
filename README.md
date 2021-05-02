@@ -2,7 +2,7 @@ Model order selection and eigen similarity based framework for detection and ide
 ==============================================================================================================
 -----
 
-Eigensim is a framework based on eigenvalues and eigenvectors similarity for anomaly detection, with application on network attack detection.
+Eigensim is a framework based on eigenvalues and eigenvectors similarity, and Model order selection for anomaly detection. We evaluate Eigensim with application on network attack detection in widely adopted dataset for threat detection. The results are public available in [Eigensim paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301601).
 
 -----
 **Citing Eigensim**:
