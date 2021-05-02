@@ -26,6 +26,7 @@ If you use Eigensim in a scientific publication, we would appreciate citations t
 
 -----
 Java install:
-.. code-block:: shell
+'''
 	mvn clean install
 	mvn release:prepare release:perform -Dmaven.javadoc.skip=true
+'''
