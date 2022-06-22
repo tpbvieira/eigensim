@@ -2,7 +2,11 @@ Model order selection and eigen similarity based framework for detection and ide
 ==============================================================================================================
 -----
 
-Eigensim is a framework that implements novel algorithms based on Model Order Selection (MOS) and Eigenvalue/Eigenvector similarity for anomaly detection. We evaluate Eigensim on network attack detection from simulated dataset and from a widely adopted dataset for threat detection. The results are available in [Eigensim paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301601).
+Eigensim is a framework that implements novel algorithms based on Model Order Selection (MOS) and Eigenvalue/Eigenvector similarity for anomaly detection. 
+
+We evaluate Eigensim on network attack detection from simulated dataset and from a widely adopted dataset for threat detection. 
+
+The results are available in [Eigensim paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301601).
 
 -----
 **Citing Eigensim**:
